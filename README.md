@@ -48,4 +48,4 @@ data/: Directory containing the Diabetes dataset.
 The model achieved an accuracy of X% on the testing dataset.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mahn-bonnie/Diabetes-Predictor-using-ML#) file for details.
