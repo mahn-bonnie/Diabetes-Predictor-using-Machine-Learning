@@ -46,3 +46,6 @@ data/: Directory containing the Diabetes dataset.
 # Results
 
 The model achieved an accuracy of X% on the testing dataset.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
